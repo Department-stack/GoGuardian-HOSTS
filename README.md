@@ -106,3 +106,7 @@ unblock goguardian on personal computer with HOSTS
 127.0.0.1 theft-recovery.goguardian.com
 127.0.0.1 quiddity.goguardian.com
 ```
+
+
+# License
+PasteLeft Ⓟ 2024 Yang, None left reserved
