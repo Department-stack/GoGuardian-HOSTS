@@ -1,7 +1,3 @@
-# Goguardian-ignore-dns
-unblock goguardian on personal computer with HOSTS
-
-```
 127.0.0.1 goguardian.com
 127.0.0.1 admin-updates.goguardian.com
 127.0.0.1 blog.goguardian.com
